@@ -2,7 +2,7 @@
 
 HandySpeaks is an electromechanical glove designed to recognize and interpret American Sign Language (ASL) gestures. It integrates flex sensors, an MPU6050 sensor, an SD card module, and a speaker to facilitate communication for individuals with speech and hearing impairments. The glove captures hand movements, processes them using an Arduino Mega microcontroller, and outputs corresponding spoken words to aid communication.
 
-![HandySpeaks](https://nurturingmachines.files.wordpress.com/2024/04/img_2354.jpeg){:width="400px" height="300px"}
+![HandySpeaks](https://nurturingmachines.files.wordpress.com/2024/04/img_2354.jpeg)
 
 ## Installation
 
